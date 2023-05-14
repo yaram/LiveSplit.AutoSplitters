@@ -15728,6 +15728,8 @@
             <Game>OpenTTD 1.11.2</Game>
             <Game>OpenTTD 1.12.1</Game>
             <Game>OpenTTD 12.1</Game>
+            <Game>OpenTTD 1.13.1</Game>
+            <Game>OpenTTD 13.1</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/yaram/openttd-autosplitter/master/OpenTTD.asl</URL>
